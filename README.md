@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DelfOstrich
 - 👀 I’m interested in ...JavaScript, Python
-- 🌱 I’m currently learning ... JavaScript with @NorthCoders, Python
+- 🌱 I’m currently learning ... JavaScript, Python
 
 <!---
 DelfOstrich/DelfOstrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
